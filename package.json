@@ -1,0 +1,27 @@
+{
+  "name": "first-phaser-game",
+  "version": "1.0.0",
+  "description": "javascript game using phaser engine",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/b-e-n-murray/first-phaser-game.git"
+  },
+  "keywords": [
+    "game",
+    "js",
+    "phaser"
+  ],
+  "author": "Ben Murray",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/b-e-n-murray/first-phaser-game/issues"
+  },
+  "homepage": "https://github.com/b-e-n-murray/first-phaser-game#readme",
+  "dependencies": {
+    "phaser": "^3.60.0"
+  }
+}
